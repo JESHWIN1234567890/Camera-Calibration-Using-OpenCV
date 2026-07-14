@@ -133,7 +133,7 @@ k3 = ...
 ## 📷 Checkerboard Used
 
 <p align="center">
-  <img src="checkerboard.jpg" width="600" alt="Checkerboard">
+  <img src="checkboard.png" width="600" alt="Checkerboard">
 </p>
 
 <p align="center">
@@ -142,22 +142,10 @@ Calibration checkerboard (8 × 8 squares with 7 × 7 inner corners) used to esti
 
 ---
 
-## 🎯 Checkerboard Detection
-
-<p align="center">
-  <img src="checkerboard_detection.png" width="700" alt="Checkerboard Detection">
-</p>
-
-<p align="center">
-Successful detection of checkerboard corners using OpenCV's <code>findChessboardCorners()</code> function.
-</p>
-
----
-
 ## 🖼️ Image Undistortion
 
 <p align="center">
-  <img src="comparison.png" width="800" alt="Before vs After Undistortion">
+  <img src="comparison.jpg" width="800" alt="Before vs After Undistortion">
 </p>
 
 <p align="center">
