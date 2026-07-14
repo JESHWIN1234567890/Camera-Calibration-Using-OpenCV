@@ -130,21 +130,39 @@ k3 = ...
 
 ---
 
-## 🖼️ Sample Output
+## 📷 Checkerboard Used
 
-### Checkerboard Detection
+<p align="center">
+  <img src="checkerboard.jpg" width="600" alt="Checkerboard">
+</p>
 
-> *(Add screenshot here)*
+<p align="center">
+Calibration checkerboard (8 × 8 squares with 7 × 7 inner corners) used to estimate the camera's intrinsic parameters.
+</p>
+
+---
+
+## 🎯 Checkerboard Detection
+
+<p align="center">
+  <img src="checkerboard_detection.png" width="700" alt="Checkerboard Detection">
+</p>
+
+<p align="center">
+Successful detection of checkerboard corners using OpenCV's <code>findChessboardCorners()</code> function.
+</p>
 
 ---
 
-### Image Undistortion
+## 🖼️ Image Undistortion
 
-| Before | After |
-|--------|-------|
-| *(Image)* | *(Image)* |
+<p align="center">
+  <img src="comparison.png" width="800" alt="Before vs After Undistortion">
+</p>
 
----
+<p align="center">
+Comparison of the original distorted image and the corrected image after applying the computed camera calibration parameters.
+</p>
 
 ## 🚀 Installation
 
